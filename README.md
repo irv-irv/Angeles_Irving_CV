@@ -13,7 +13,7 @@
 ArcMAP, QGIS, SQL, Tableu
 
 **Beginner level** <br>
-LINUX, Python
+Python, R
 
 ## Education
 
