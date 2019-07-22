@@ -1,4 +1,3 @@
-# Resume
 
 ## Personal Details
 
